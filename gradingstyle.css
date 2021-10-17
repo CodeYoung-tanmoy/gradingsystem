@@ -1,0 +1,39 @@
+#final-report{
+    display: none;
+    border: 10px solid darkblue;
+    margin: 6%;
+    padding: 1% 5% 1% 5%;
+    font-family: calibri;
+    border-radius: 20px;
+}
+#btn-3,#btn-4{
+    display: none;
+}
+#final-report h1{
+    font-size: 45px;
+    text-align: center;
+    color: darkred;
+}
+#final-report h2{
+    font-size: 35px;
+    text-align: center;
+    color: indigo;
+}
+#final-report #details-1{
+    font-size: 30px;
+    color: darkblue;
+}
+#final-report #details-2{
+    font-size: 25px;
+    color: darkslategray;
+}
+#final-report .det-1{
+    font-size: 30px;
+    font-weight: bold;
+    color: forestgreen;
+}
+#final-report .det-2{
+    font-size: 25px;
+    font-weight: bold;
+    color: blue;
+}
